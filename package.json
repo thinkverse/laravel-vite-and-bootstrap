@@ -10,5 +10,9 @@
         "lodash": "^4.17.19",
         "postcss": "^8.1.14",
         "vite": "^4.0.0"
+    },
+    "dependencies": {
+        "@popperjs/core": "^2.11.6",
+        "bootstrap": "^5.2.3"
     }
 }
